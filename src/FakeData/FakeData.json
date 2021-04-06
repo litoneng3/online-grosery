@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "title": "ACI Aroma Aromatic Rice 1 kg",
+    "price": 130,
+    "img": "https://s3-ap-southeast-1.amazonaws.com/priyoshop/content/Images/thumbs/0170571_aci-aroma-aromatic-rice-1-kg.jpeg"
+  }, 
+  {
+    "id": 2,
+    "title": "Julie Instant Bason Mix",
+    "price": 130,
+    "img": "https://s3-ap-southeast-1.amazonaws.com/priyoshop/content/Images/thumbs/0208766_julie-instant-bason-mix-500-gm.png"
+  },
+   {
+    "id": 3,
+    "title": "Orion Mustard Oil - 500ml",
+    "price": 340,
+    "img": "https://s3-ap-southeast-1.amazonaws.com/priyoshop/content/Images/thumbs/0203130_orion-mustard-oil-500ml.jpeg"
+  }, 
+  {
+    "id": 4,
+    "title": "TATA Tea Gold - 200 GM",
+    "price": 570,
+    "img": "https://s3-ap-southeast-1.amazonaws.com/priyoshop/content/Images/thumbs/0209330_tata-tea-gold-200-gm.jpeg"
+  }, 
+  {
+    "id": 5,
+    "title": "ACI Pure Salt - 1 KG",
+    "price": 35,
+    "img": "https://s3-ap-southeast-1.amazonaws.com/priyoshop/content/Images/thumbs/0209328_aci-pure-salt-500-gm.jpeg"
+  }, 
+  {
+    "id": 6,
+    "title": "Pure Harvests Baking Powder",
+    "price": 55,
+    "img": "https://s3-ap-southeast-1.amazonaws.com/priyoshop/content/Images/thumbs/0208967_pure-harvests-baking-powder-100-gm_550.png"
+  }
+]
