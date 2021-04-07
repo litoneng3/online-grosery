@@ -9,7 +9,7 @@ const Review = () => {
     const [loggedInUser, setLoggedInUser] = useContext(UserContext);
 
     useEffect(() => {
-        fetch('http://localhost:5000/ordered?email=' + loggedInUser.email)
+        fetch('https://peaceful-mesa-44182.herokuapp.com/ordered?email=' + loggedInUser.email)
             .then(res => res.json())
             .then(data => {
                 setProducts(data);

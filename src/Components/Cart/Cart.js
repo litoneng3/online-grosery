@@ -32,7 +32,7 @@ const Cart = () => {
 
     const handleBooking = () => {
         const newProducts = {...loggedInUser, ...selectedDate, ...data};
-        fetch('http://localhost:5000/products',{
+        fetch('https://peaceful-mesa-44182.herokuapp.com/products',{
             method: 'POST', 
             headers: {
                 'Content-Type': 'application/json'
